@@ -1,0 +1,29 @@
+{
+  "name": "@portinari/tslint",
+  "version": "1.0.0",
+  "tag": "dev",
+  "description": "Portinari Lint for TSLint",
+  "author": "Portinari",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portinariui/portinari-tslint"
+  },
+  "main": "po-tslint.json",
+  "keywords": [
+    "lint",
+    "po",
+    "package",
+    "portinari"
+  ],
+  "dependencies": {
+    "@angular/compiler": "~8.0.0",
+    "@angular/core": "~8.0.0",
+    "codelyzer": "~5.1.0",
+    "rxjs": "~6.4.0",
+    "tslint": "~5.17.0",
+    "tslint-sonarts": "1.8.0",
+    "typescript": "~3.4.3",
+    "zone.js": "~0.9.1"
+  }
+}
