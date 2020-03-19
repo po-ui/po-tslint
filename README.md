@@ -1,21 +1,20 @@
 # po-tslint
 
-Package with lint rules used in the (PO) Portinari HTML Framework.
+Package with lint rules used in the PO UI.
 
-## INSTALL
+## Install
 
 ```
-npm i --save-dev @portinari/tslint
+npm i --save-dev @po-ui/ng-tslint
 ```
 
-
-## USAGE
+## Usage
 
 To apply lint rules used in PO projects you should, after installing the package, add the following lines of code in the `tslint.json` file, found at the root of your project.
 
 ```
 "extends": [
-  "@portinari/tslint"
+  "@po-ui/ng-tslint"
 ]
 ```
 
@@ -24,7 +23,7 @@ Your file should look like this:
 ```
 {
   "extends": [
-    "@portinari/tslint"
+    "@po-ui/ng-tslint"
   ],
   "rules": {
     // your personal rules.
@@ -32,4 +31,4 @@ Your file should look like this:
 }
 ```
 
-For more informations [Starting with po-tslint](https://po.portinari.com.br/guides/getting-started-po-tslint).
+For more informations read [Starting with po-tslint](https://po-ui.io/guides/getting-started-po-tslint).

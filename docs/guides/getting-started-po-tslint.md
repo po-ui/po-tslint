@@ -1,4 +1,4 @@
-[comment]: # (@label Começando com Portinari TSLint)
+[comment]: # (@label Começando com PO TSLint)
 [comment]: # (@link guides/getting-started-po-tslint)
 
 Este conteúdo tem por finalidade auxiliar a instalação do po-tslint em seu projeto.
@@ -35,7 +35,7 @@ Inicialmente você deve instalar o PO seguindo o guia [Como instalar o PO](/guid
 Execute o comando abaixo para que seja instalado o po-tslint:
 
 ``` shell
-npm i --save-dev @portinari/tslint
+npm i --save-dev @po-ui/ng-tslint
 ```
 
 > Com isso, as regras de lint utilizadas no PO serão instaladas e estarão disponíveis para serem usadas no projeto.
@@ -47,7 +47,7 @@ Para aplicar as regras do po-tslint você deve, após instalar o pacote, adicion
 
 ```
 "extends": [
-  "@portinari/tslint"
+  "@po-ui/ng-tslint"
 ]
 ```
 
@@ -56,7 +56,7 @@ Seu arquivo deverá ficar parecido com este:
 ```
 {
   "extends": [
-    "@portinari/tslint"
+    "@po-ui/ng-tslint"
   ],
   "rules": {
     // suas regras personalizadas.
