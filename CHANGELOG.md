@@ -1,6 +1,6 @@
 # Changelog
 
-# 2.0.0-beta.1 (19/03/2020)
+# 2.0.0-beta.3 (08/04/2020)
 
 Atualização para Angular v9.
 
