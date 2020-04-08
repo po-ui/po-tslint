@@ -1,5 +1,9 @@
 # Changelog
 
+# 2.0.0-beta.3 (08/04/2020)
+
+Compatibilidade com @po-ui/ng-components@2.0.0-beta.3
+
 # 2.0.0-beta.2 (03/04/2020)
 
 ### Features
