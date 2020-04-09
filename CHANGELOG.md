@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.0-rc.1](https://github.com/po-ui/po-tslint/pull/6/commits/ba82db293146ddd2843862e840187b4aa07dee75) (2020-04-09)
+
+Compatibilidade com @po-ui/ng-components@2.0.0-rc.1
+
 # 2.0.0-beta.3 (08/04/2020)
 
 Compatibilidade com @po-ui/ng-components@2.0.0-beta.3
