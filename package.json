@@ -1,6 +1,6 @@
 {
   "name": "@po-ui/ng-tslint",
-  "version": "2.0.0",
+  "version": "3.0.0-beta.1",
   "tag": "beta",
   "description": "PO Lint for TSLint",
   "author": "PO",
@@ -17,13 +17,13 @@
     "po-ui"
   ],
   "dependencies": {
-    "@angular/compiler": "~9.0.0",
-    "@angular/core": "~9.0.0",
-    "codelyzer": "^5.1.2",
-    "rxjs": "~6.5.4",
-    "tslint": "~5.17.0",
-    "tslint-sonarts": "1.8.0",
-    "typescript": "~3.7.5",
-    "zone.js": "~0.10.2"
+    "@angular/compiler": "^10.0.4",
+    "@angular/core": "^10.0.4",
+    "codelyzer": "^6.0.0",
+    "rxjs": "^6.6.0",
+    "tslint": "^6.1.2",
+    "tslint-sonarts": "^1.9.0",
+    "typescript": "^3.9.6",
+    "zone.js": "^0.10.3"
   }
 }
