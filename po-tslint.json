@@ -155,6 +155,8 @@
       "generic"
     ],
     "no-duplicate-string": false,
-    "ordered-imports": false
+    "ordered-imports": false,
+    "bool-param-default": false,
+    "arguments-order": false
   }
 }
