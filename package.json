@@ -1,6 +1,6 @@
 {
   "name": "@po-ui/ng-tslint",
-  "version": "3.0.0-beta.1",
+  "version": "3.0.0-rc.1",
   "tag": "beta",
   "description": "PO Lint for TSLint",
   "author": "PO",
