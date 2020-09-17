@@ -1,7 +1,7 @@
 {
   "name": "@po-ui/ng-tslint",
   "version": "3.0.0",
-  "tag": "beta",
+  "tag": "next",
   "description": "PO Lint for TSLint",
   "author": "PO",
   "license": "MIT",
