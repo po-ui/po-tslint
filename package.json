@@ -1,6 +1,6 @@
 {
   "name": "@po-ui/ng-tslint",
-  "version": "3.0.0",
+  "version": "4.0.0-rc.1",
   "tag": "next",
   "description": "PO Lint for TSLint",
   "author": "PO",
@@ -17,8 +17,8 @@
     "po-ui"
   ],
   "dependencies": {
-    "@angular/compiler": "^10.0.4",
-    "@angular/core": "^10.0.4",
+    "@angular/compiler": "^11.0.1",
+    "@angular/core": "^11.0.1",
     "codelyzer": "^6.0.0",
     "rxjs": "^6.6.0",
     "tslint": "^6.1.2",
