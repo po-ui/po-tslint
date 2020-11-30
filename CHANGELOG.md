@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.0-rc.1] (30/11/2020)
+
+### Features
+
+* atualização para Angular v11
+
+
 ## [3.0.0] (03/08/2020)
 
 ### Features
