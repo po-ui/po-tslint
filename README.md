@@ -1,5 +1,9 @@
 # po-tslint
 
+:warning: __PO TSLint is deprecated.__
+
+> Migramos para o @angular-eslint veja nossa [documentação de apoio](https://medium.com/totvsdevelopers/migrando-um-projeto-angular-com-tslint-para-o-eslint-d572e19786c1).
+
 Package with lint rules used in the PO UI.
 
 ## Install
