@@ -1,6 +1,10 @@
 [comment]: # (@label Começando com PO TSLint)
 [comment]: # (@link guides/getting-started-po-tslint)
 
+:warning: __PO TSLint is deprecated.__
+
+> Migramos para o @angular-eslint veja nossa [documentação de apoio](https://medium.com/totvsdevelopers/migrando-um-projeto-angular-com-tslint-para-o-eslint-d572e19786c1).
+
 Este conteúdo tem por finalidade auxiliar a instalação do po-tslint em seu projeto.
 
 ### Índice
